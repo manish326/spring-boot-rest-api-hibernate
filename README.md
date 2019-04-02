@@ -18,7 +18,12 @@ Spring Rest API using Spring Boot and Hibernate
  Development process:
  
  Update db config in application.properties file
+ 
  Create Employee Entity
+ 
  Create DAO interface
+ 
  Create DAO implementation
+ 
  Create rest Controller to use DAO
+ 
